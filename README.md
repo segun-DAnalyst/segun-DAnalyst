@@ -141,4 +141,4 @@ Tools: SQL
 
 # 📬 Contact
 
-LinkedIn → YOUR_LINKEDIN
+LinkedIn → https://www.linkedin.com/in/oluwasegun-baloguno/
