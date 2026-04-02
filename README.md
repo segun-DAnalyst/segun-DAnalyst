@@ -108,23 +108,25 @@ Key insights
 Tools: SQL
 
 ---
+ 
+## 🗂️ Portfolio Navigation (Quick access)
 
-# 🗂️ Portfolio Navigation
-
-### Power BI
+### ![Tool](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 - AfriTech Brand Reputation Dashboard → REPO_LINK
 
-### Excel
+
+### ![Tool](https://img.shields.io/badge/Tool-Excel-green)
 - Streamline Logistics Dashboard → REPO_LINK
 
-### SQL
+### ![Tool](https://img.shields.io/badge/Tool-SQL-blue)
 - NextGen Employee Retention Analysis → REPO_LINK
 
-### Tableau
+### ![Tool](https://img.shields.io/badge/Tool-Tableau-blueviolet)
 - Workforce & Compensation Analytics → Coming Soon
-
-### Python
+  
+### ![Tool](https://img.shields.io/badge/Tool-Python-blue)
 - Python Data Analysis Project → Coming Soon
+  
 
 ---
 
